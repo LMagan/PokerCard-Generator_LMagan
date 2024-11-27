@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#botSuit {
+  transform: rotate(-180deg);
+  font-size: 60px;
+}
+#topSuit {
+  font-size: 60px;
+}
+#numero {
+  font-size: 100px;
+}
